@@ -1,7 +1,7 @@
-<h1> Hello, Welcome to Cloudfreak Technologies !!! </h1>
-<h1> Hello, Welcome to CloudBourne Technologies !!! </h1>
+<h1> Hi Hello Devops and AWS classes </h1>
+<h1> Deplyed war on tomcat server successfully </h1>
 
-<h1> Hello, Welcome to INIT6 Technologies !!! </h1>
+<h1> Thanks </h1>
 
 
 
